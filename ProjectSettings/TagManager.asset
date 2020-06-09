@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Enemy
+  - Wall
+  - Bullet_Hero
+  - Bullet_Enemy
+  - Interfaz_Heart
+  - Item
+  - SpawnPoint
+  - Rooms
+  - Floor
+  - Portal
+  - Loot
+  - Chest
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Hero
+  - Enemy
+  - ProyectilAmigo
+  - ProyectilEnemigo
+  - RoomVisible
+  - RoomInvisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,7 @@
+5;Chest
+25;Nothing
+5;Heart
+54;Gold
+1;Diamond
+5;Platinum
+5;Key
